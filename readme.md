@@ -6,3 +6,4 @@
 ## Vim
 - [vim-galore: All things Vim!](https://github.com/mhinz/vim-galore)
 - [Follow my leader](http://vimcasts.org/blog/2014/02/follow-my-leader/)
+- [Long-range line duplication](http://vimcasts.org/episodes/long-range-line-duplication/)
